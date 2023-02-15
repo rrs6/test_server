@@ -8,10 +8,10 @@
             "nivel": "Fundamental II",
             "idioma": "Latin",
             "professor": "Pimpolho Fernando",
-            "unidade-tematica": "Cultura digital",
+            "unidade_tematica": "Cultura digital",
             "duracao": "6 anos",
-            "natureza-atividade": "Jogar bola",
-            "quantidade-alunos": "10000"
+            "natureza_atividade": "Jogar bola",
+            "quantidade_alunos": "10000"
         },
         {
             "id": 1,
@@ -21,10 +21,10 @@
             "nivel": "Fundamental II",
             "idioma": "Latin",
             "professor": "Pimpolho Fernando",
-            "unidade-tematica": "Cultura digital",
+            "unidade_tematica": "Cultura digital",
             "duracao": "6 anos",
-            "natureza-atividade": "Jogar bola",
-            "quantidade-alunos": "10000"
+            "natureza_atividade": "Jogar bola",
+            "quantidade_alunos": "10000"
         },
         {
             "id": 1,
@@ -34,10 +34,10 @@
             "nivel": "Fundamental II",
             "idioma": "Latin",
             "professor": "Pimpolho Fernando",
-            "unidade-tematica": "Cultura digital",
+            "unidade_tematica": "Cultura digital",
             "duracao": "6 anos",
-            "natureza-atividade": "Jogar bola",
-            "quantidade-alunos": "10000"
+            "natureza_atividade": "Jogar bola",
+            "quantidade_alunos": "10000"
         },
         {
             "id": 1,
@@ -47,10 +47,10 @@
             "nivel": "Fundamental II",
             "idioma": "Latin",
             "professor": "Pimpolho Fernando",
-            "unidade-tematica": "Cultura digital",
+            "unidade_tematica": "Cultura digital",
             "duracao": "6 anos",
-            "natureza-atividade": "Jogar bola",
-            "quantidade-alunos": "10000"
+            "natureza_atividade": "Jogar bola",
+            "quantidade_alunos": "10000"
         }
     ]
 }
