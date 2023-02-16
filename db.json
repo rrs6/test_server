@@ -1,20 +1,6 @@
 {
     "practices": [
         {
-            "id": 1,
-            "escola": "Escola Municipal de Educação Integral Prof.º Waldir Garci",
-            "cidade": "Manaus",
-            "ano": "1º ano ao 5º ano do Ensino Fundamental I",
-            "nivel": "Anos iniciais",
-            "idioma": "Espanhol, Crioulo, Francês, Português, Inglês",
-            "unidade_tematica": "Projeto Pluralidade Cultural em uma Escola Transformadora",
-            "duracao": "12 meses (2018)",
-            "natureza_atividade": "TEATRO QUE ENVOLVE DIFERENTES IDIOMAS",
-            "quantidade_alunos": "210",
-            "objetivo_conhecimento" : "Localização, capital língua oficial, história, geografia, política, subdivisões, economia, cultura, tradições, danças, culinária, figurinos, interatividade sócio -afetiva do Haiti, da Venezuela e do Brasil. Respeito e conservação dessas culturas que compõem o ambiente escolar da EMEI Prof. Waldir Garcia",
-            "type" : "CASA"
-        },
-        {
             "id": 2,
             "escola": "Escola Municipal de Educação Integral Prof.º Waldir Garci",
             "cidade": "Manaus",
@@ -26,7 +12,9 @@
             "natureza_atividade": "TEATRO QUE ENVOLVE DIFERENTES IDIOMAS",
             "quantidade_alunos": "210",
             "objetivo_conhecimento" : "Localização, capital língua oficial, história, geografia, política, subdivisões, economia, cultura, tradições, danças, culinária, figurinos, interatividade sócio -afetiva do Haiti, da Venezuela e do Brasil. Respeito e conservação dessas culturas que compõem o ambiente escolar da EMEI Prof. Waldir Garcia",
-            "type" : "CASA"
+            "type" : "CASA",
+            "habilidades" : "Protagonismo, trabalho em equipe, empatia, criatividade dos alunos migrantes e brasileiros.",
+            "recursos" : "Entrevistas, diário de bordo, data show, lousa, livros, sites da internet, visita a feira, reuniões com os pais, aulas expositivas, ensaios de cenas, costureiras, máquinas de costuras, tecidos, cenários, sonoplastia, auditório."
         },
         {
             "id": 3,
@@ -40,7 +28,9 @@
             "natureza_atividade": "TEATRO QUE ENVOLVE DIFERENTES IDIOMAS",
             "quantidade_alunos": "210",
             "objetivo_conhecimento" : "Localização, capital língua oficial, história, geografia, política, subdivisões, economia, cultura, tradições, danças, culinária, figurinos, interatividade sócio -afetiva do Haiti, da Venezuela e do Brasil. Respeito e conservação dessas culturas que compõem o ambiente escolar da EMEI Prof. Waldir Garcia",
-            "type" : "CASA"
+            "type" : "CASA",
+            "habilidades" : "Protagonismo, trabalho em equipe, empatia, criatividade dos alunos migrantes e brasileiros.",
+            "recursos" : "Entrevistas, diário de bordo, data show, lousa, livros, sites da internet, visita a feira, reuniões com os pais, aulas expositivas, ensaios de cenas, costureiras, máquinas de costuras, tecidos, cenários, sonoplastia, auditório."
         },
         {
             "id": 4,
@@ -54,7 +44,25 @@
             "natureza_atividade": "TEATRO QUE ENVOLVE DIFERENTES IDIOMAS",
             "quantidade_alunos": "210",
             "objetivo_conhecimento" : "Localização, capital língua oficial, história, geografia, política, subdivisões, economia, cultura, tradições, danças, culinária, figurinos, interatividade sócio -afetiva do Haiti, da Venezuela e do Brasil. Respeito e conservação dessas culturas que compõem o ambiente escolar da EMEI Prof. Waldir Garcia",
-            "type" : "CASA"
+            "type" : "CASA",
+            "habilidades" : "Protagonismo, trabalho em equipe, empatia, criatividade dos alunos migrantes e brasileiros.",
+            "recursos" : "Entrevistas, diário de bordo, data show, lousa, livros, sites da internet, visita a feira, reuniões com os pais, aulas expositivas, ensaios de cenas, costureiras, máquinas de costuras, tecidos, cenários, sonoplastia, auditório."
+        },
+        {
+            "id": 5,
+            "escola": "Escola Municipal de Educação Integral Prof.º Waldir Garci",
+            "cidade": "Manaus",
+            "ano": "1º ano ao 5º ano do Ensino Fundamental I",
+            "nivel": "Anos iniciais",
+            "idioma": "Espanhol, Crioulo, Francês, Português, Inglês",
+            "unidade_tematica": "Projeto Pluralidade Cultural em uma Escola Transformadora",
+            "duracao": "12 meses (2018)",
+            "natureza_atividade": "TEATRO QUE ENVOLVE DIFERENTES IDIOMAS",
+            "quantidade_alunos": "210",
+            "objetivo_conhecimento" : "Localização, capital língua oficial, história, geografia, política, subdivisões, economia, cultura, tradições, danças, culinária, figurinos, interatividade sócio -afetiva do Haiti, da Venezuela e do Brasil. Respeito e conservação dessas culturas que compõem o ambiente escolar da EMEI Prof. Waldir Garcia",
+            "type" : "CASA",
+            "habilidades" : "Protagonismo, trabalho em equipe, empatia, criatividade dos alunos migrantes e brasileiros.",
+            "recursos" : "Entrevistas, diário de bordo, data show, lousa, livros, sites da internet, visita a feira, reuniões com os pais, aulas expositivas, ensaios de cenas, costureiras, máquinas de costuras, tecidos, cenários, sonoplastia, auditório."
         }
     ]
 }
